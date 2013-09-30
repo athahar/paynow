@@ -5,7 +5,7 @@
 
 1. Create a Paypal developer account
 2. Get your API credentials at [developer.paypal.com](http://developer.paypal.com/webapps/developer/applications/myapps) by creating a new application. 
-3. Use these credentials in the [config.json](../master/config.json) file.
+3. Update API credentials in the config.json
 
 ### Running it
 
